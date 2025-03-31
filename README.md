@@ -14,7 +14,7 @@ A 10-day, 40-hour self-paced curriculum to master Power BI and Python for data a
 - [x] Day 5: Data modelling and Relationships
 - [x] Day 6: Advanced DAX and Time intelligence
 - [x] Day 7: Advanced python analytics
-- [ ] Day 8: Dashboard Optimizations
+- [x] Day 8: Dashboard Optimizations
 - [ ] Day 9: Collaboration and Requirements Simulation
 - [ ] Day 10: Finishing up
 
